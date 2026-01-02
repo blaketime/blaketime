@@ -1,4 +1,4 @@
-**Hi, I'm Blake**
+<img src="./assets/header.svg" width="200">
 
 I'm a designer and developer. Basically, I just like making things.
 
