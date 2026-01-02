@@ -14,4 +14,4 @@ Building Foob and Cremini. More on these soon!
 
 **Stack**
 
-Figma, React, Astro, Supabase, Tauri, Unity
+Figma, React, Astro, Supabase, Tauri, Flutter, Unity
