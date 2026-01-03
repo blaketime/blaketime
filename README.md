@@ -12,6 +12,7 @@ I'm comfortable designing interfaces, building out the frontend, or wiring up th
 <img src="./assets/Currently.svg" height="30">
 
 Building Foob and Cremini. More on these soon!
+If you've got an idea of any sort and you think I could help you with it, feel free to reach out!
 
 <br>
 
