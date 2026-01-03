@@ -14,4 +14,4 @@ Building Foob and Cremini. More on these soon!
 
 <img src="./assets/Stack.svg" height="30">
 
-<img src="./assets/Figma.svg" height="22"> <img src="./assets/React.svg" height="22"> <img src="./assets/Astro.svg" height="22"> <img src="./assets/Supabase.svg" height="22"> <img src="./assets/Tauri.svg" height="22"> <img src="./assets/Unity.svg" height="22">
+<img src="./assets/Figma.svg" height="25"> <img src="./assets/React.svg" height="25"> <img src="./assets/Astro.svg" height="25"> <img src="./assets/Supabase.svg" height="25"> <img src="./assets/Tauri.svg" height="25"> <img src="./assets/Unity.svg" height="25">
