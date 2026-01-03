@@ -18,6 +18,4 @@ Building Foob and Cremini. More on these soon!
 
 <br>
 
-<img src="./assets/Links.svg" height="30">
-
 <a href="https://layers.to/blaketime"><img src="./assets/Layers.svg" height="40"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/blake-cyze"><img src="./assets/Linkedin.svg" height="40"></a>&nbsp;&nbsp;<a href="https://blaketime.com"><img src="./assets/Portfolio.svg" height="40"></a>
