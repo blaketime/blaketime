@@ -1,7 +1,6 @@
 <img src="./assets/HiImBlake.svg" height="30">
 
 I'm a designer and developer. Basically, I just like making things.
-
 I'm comfortable designing interfaces, building out the frontend, or wiring up the backend. Whatever gets the thing built.
 
 <br>
