@@ -19,7 +19,7 @@ If you've got an idea of any sort and you think I could help you with it, feel f
 
 <img src="./assets/Stack.svg" height="30">
 
-Figma, React, Astro, Supabase, Tauri, Unity
+Figma, React, Astro, Supabase, Pocketbase, Tauri, Unity
 
 <br>
 
