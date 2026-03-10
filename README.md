@@ -3,7 +3,7 @@
 
 <img src="./assets/HiImBlake.svg" height="30">
 
-I'm a desig engineer. Truthfully, I just like making things.
+I'm a design engineer. Truthfully, I just like making things.
 
 I'm comfortable designing interfaces, building out the frontend, or wiring up the backend. Whatever gets the thing built.
 
