@@ -1,69 +1,23 @@
-<div align="center">
+
+
+
+<img src="./assets/HiImBlake.svg" height="30">
+
+I'm a product engineer. Truthfully, I just like making things.
+
+I'm comfortable designing interfaces, building out the frontend, or wiring up the backend. Whatever gets the thing built.
 
 <br>
 
-<img src="./assets/HiImBlake.svg" height="36">
+<img src="./assets/Currently.svg" height="30">
 
-<br>
-<br>
+Building a few [secret] things currently! More on these soon.
 
-**Product engineer & designer.** Truthfully, I just like making things.
-
-<sub>Designing interfaces · building the frontend · wiring up the backend — whatever gets the thing built.</sub>
+If you've got an idea of any sort and you think I could help you with it, feel free to reach out!
 
 <br>
 
-</div>
+<img src="./assets/Stack.svg" height="30">
 
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/Currently.svg" height="28">
-
+Figma, Paper, Next, React, Astro, Flutter, Supabase, Pocketbase, Tauri, Unity
 <br>
-
-Building a few **[secret]** things.<br>
-More on these soon.
-
-<br>
-
-> [!NOTE]
-> Got an idea you think I could help with?<br>
-> I'd love to hear it — reach out.
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/Stack.svg" height="28">
-
-<br>
-
-<kbd>Figma</kbd> <kbd>Paper</kbd> <kbd>Next</kbd> <kbd>React</kbd> <kbd>Astro</kbd>
-
-<kbd>Flutter</kbd> <kbd>Supabase</kbd> <kbd>Pocketbase</kbd>
-
-<kbd>Tauri</kbd> <kbd>Unity</kbd>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<br>
-
-<a href="https://cyze.dev"><img src="./assets/Portfolio.svg" height="22"></a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://linkedin.com/in/blakecyze"><img src="./assets/Linkedin.svg" height="22"></a>
-
-<br>
-<br>
-
-<sub><i>Currently in the workshop. Door's open.</i></sub>
-
-<br>
-
-</div>
